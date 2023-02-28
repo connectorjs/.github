@@ -5,7 +5,7 @@
 </p>
 
 
-[![](https://img.shields.io/badge/%F0%9F%8C%90%20Powered_by-miajupiter.com-blueviolet?style=flat&labelColor=%23323232)](https://miajupiter.com) ![GitHub followers](https://img.shields.io/github/followers/miajupiter?label=MiaJupiter&logo=github)
+[![](https://img.shields.io/badge/%F0%9F%8C%90%20Powered_by-miajupiter.com-blueviolet?style=flat&labelColor=%23323232)](https://miajupiter.com) [![](https://img.shields.io/github/followers/miajupiter?label=MiaJupiter&logo=github)](https://github.com/miajupiter)
 
 
 ## About
