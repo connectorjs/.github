@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://connectorjs.com" _target="blank">
-<img src="https://github.com/connectorjs/.github/raw/main/images/icon.png"  width="80" />
-<h3 align="center">ConnectorJS</h3>
+<img src="https://github.com/connectorjs/.github/raw/main/images/connectorjs-logo.png"  width="400" />
 </a>
 </p>
 
