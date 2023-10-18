@@ -1,5 +1,5 @@
 <a href="https://connectorjs.com" _target="blank">
-  <img src="../images/connectjs-logo.png"  width="400" alt="connectorjs.com" >
+  <img src="/images/connectjs-logo.png"  width="400" alt="connectorjs.com" >
 
   <h1>CONNECTORJS.com</h1>
 </a>
